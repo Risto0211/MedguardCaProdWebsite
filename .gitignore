@@ -1,0 +1,5 @@
+node_modules/
+dist/
+userdb.sqlite
+src/uploads/
+.vscode/
